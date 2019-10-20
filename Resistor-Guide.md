@@ -6,6 +6,7 @@
 
 **Description**
 
+A resistor is meant to reduce or regulate the current in a circuit. For other purposes and details like dividing voltage etc. see [{1}](https://en.wikipedia.org/wiki/Resistor)
 
 ## Calculation
 Here is how you would calculate:
@@ -33,11 +34,13 @@ The LED needs about 2V, so from the 4.5V we're left with 2.5V for the resistor a
 
 
 ----
-Notes:
+**Notes:**
 
 > 1000 mA= 1 A
 
 > V/A=Ω=Ohm
 
 
+**Sources:**
 
+{1} https://en.wikipedia.org/wiki/Resistor
