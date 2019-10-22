@@ -8,6 +8,8 @@
 
 A resistor is meant to reduce or regulate the current in a circuit. For other purposes and details like dividing voltage etc. see [{1}](https://en.wikipedia.org/wiki/Resistor).
 
+You can also use the app **Electronics Toolkit** [for Android](https://play.google.com/store/apps/details?id=com.daveyhollenberg.electronicstoolkit) or [for iOS](https://apps.apple.com/us/app/electronics-toolkit/id1350248261).
+
 
 ## Calculation
 Here is how you would calculate:
