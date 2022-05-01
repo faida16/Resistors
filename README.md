@@ -38,6 +38,8 @@ The fourth and fifth bands are used to determine the percentage tolerance of the
 
 Typical resistor tolerances for film resistors range from 1% to 10% while carbon resistors have tolerances up to 20%. Resistors with tolerances lower than 2% are called precision resistors with the or lower tolerance resistors being more expensive.
 
+
+Most five band resistors are precision resistors with tolerances of either 1% or 2% while most of the four band resistors have tolerances of 5%, 10% and 20%. The colour code used to denote the tolerance rating of a resistor is given as:
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
