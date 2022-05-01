@@ -49,13 +49,13 @@ It is sometimes easier to remember the resistor colour code by using short, easi
 
 The resulting mnemonic matches the first letter of each word to each colour which makes up the resistors colour code by order of increasing magnitude and there are many different mnemonic phrases which can be used. However, these sayings are often very crude but never the less effective for remembering the resistor colours. Here are just a few of the more “cleaner” versions but many more exist:
 
-**B**ad **B**oys **R**ing **O**ur **Y**oung **G**irls **B**ut **V**icky **G**oes **W**ithout
+- **B**ad **B**oys **R**ing **O**ur **Y**oung **G**irls **B**ut **V**icky **G**oes **W**ithout
 
-**B**etter **B**e **R**ight **O**r **Y**our **G**reat **B**ig **V**enture **G**oes **W**rong
+- **B**etter **B**e **R**ight **O**r **Y**our **G**reat **B**ig **V**enture **G**oes **W**rong
 
-**B**uster **B**rown **R**aces **O**ur **Y**oung **G**irls **B**ut **V**icky **G**enerally **W**ins (This one indicates the position of Brown
+- **B**uster **B**rown **R**aces **O**ur **Y**oung **G**irls **B**ut **V**icky **G**enerally **W**ins (This one indicates the position of Brown
 
-**B**ad **B**ooze **R**ots **O**ur **Y**oung **G**uts **B**ut **V**odka **G**oes **W**ell (in) Silver Goblets (This one includes the tolerance bands of Gold, Silver)
+- **B**ad **B**ooze **R**ots **O**ur **Y**oung **G**uts **B**ut **V**odka **G**oes **W**ell (in) Silver Goblets (This one includes the tolerance bands of Gold, Silver)
 
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
