@@ -36,6 +36,8 @@ Yellow Violet Red = 4 7 2 = 4 7 x 102 = 4700Ω or 4k7 Ohm
 
 The fourth and fifth bands are used to determine the percentage tolerance of the resistor. **Resistor tolerance** is a measure of the resistors variation from the specified resistive value and is a consequence of the manufacturing process and is expressed as a percentage of its “nominal” or preferred value.
 
+Typical resistor tolerances for film resistors range from 1% to 10% while carbon resistors have tolerances up to 20%. Resistors with tolerances lower than 2% are called precision resistors with the or lower tolerance resistors being more expensive.
+
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
