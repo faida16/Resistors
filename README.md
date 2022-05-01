@@ -34,6 +34,8 @@ For example, a resistor has the following coloured markings;
 
 Yellow Violet Red = 4 7 2 = 4 7 x 102 = 4700Ω or 4k7 Ohm
 
+The fourth and fifth bands are used to determine the percentage tolerance of the resistor. **Resistor tolerance** is a measure of the resistors variation from the specified resistive value and is a consequence of the manufacturing process and is expressed as a percentage of its “nominal” or preferred value.
+
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
