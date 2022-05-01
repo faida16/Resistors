@@ -28,6 +28,12 @@ Then we can summerise the different weighted positions of each coloured band whi
 # Calculation of resistor code values
 The Resistor Colour Code system is all well and good but we need to understand how to apply it in order to get the correct value of the resistor. The “left-hand” or the most significant coloured band is the band which is nearest to a connecting lead with the colour coded bands being read from left-to-right as follows:
 
+Digit, Digit, Multiplier = Colour, Colour x 10 colour  in Ohm’s (Ω)
+
+For example, a resistor has the following coloured markings;
+
+Yellow Violet Red = 4 7 2 = 4 7 x 102 = 4700Ω or 4k7 Ohm
+
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
