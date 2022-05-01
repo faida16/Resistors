@@ -14,6 +14,8 @@ The resistance value, tolerance, and wattage rating are generally printed onto t
 So to overcome this, small resistors use coloured painted bands to indicate both their resistive value and their tolerance with the physical size of the resistor indicating its wattage rating. These coloured painted bands produce a system of identification generally known as a **Resistors Colour Code**.
 
 An international and universally accepted resistor colour code scheme was developed many years ago as a simple and quick way of identifying a resistors ohmic value no matter what its size or condition. It consists of a set of individual coloured rings or bands in spectral order representing each digit of the resistors value
+
+The resistor colour code markings are always read one band at a time starting from the left to the right, with the larger width tolerance band oriented to the right side indicating its tolerance. By matching the colour of the first band with its associated number in the digit column of the colour chart below the first digit is identified and this represents the first digit of the resistance value
 ![](Images/IMG_20220501_233032_709.jpg)
 ![](Images/IMG_20220501_233624_292.jpg)
 ![](Images/IMG_20220501_234249_475.jpg)
