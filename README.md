@@ -18,7 +18,7 @@ An international and universally accepted resistor colour code scheme was develo
 The resistor colour code markings are always read one band at a time starting from the left to the right, with the larger width tolerance band oriented to the right side indicating its tolerance. By matching the colour of the first band with its associated number in the digit column of the colour chart below the first digit is identified and this represents the first digit of the resistance value.
 
 Again, by matching the colour of the second band with its associated number in the digit column of the colour chart we get the second digit of the resistance value and so on. Then the resistor colour code is read from left to right as illustrated below
-![](Images/IMG_20220501_233032_709.jpg)
+# The standard resistor color code chart.
 ![](Images/IMG_20220501_233624_292.jpg)
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
