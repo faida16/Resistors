@@ -22,6 +22,7 @@ Again, by matching the colour of the second band with its associated number in t
 ![](Images/IMG_20220501_233624_292.jpg)
 # resistor color code table
 ![](Images/IMG_20220502_010849_812.jpg)
+![](Images/IMG_20220502_013216_200.jpg)
 
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
