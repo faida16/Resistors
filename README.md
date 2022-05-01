@@ -55,7 +55,7 @@ The resulting mnemonic matches the first letter of each word to each colour whic
 
 - **B**uster **B**rown **R**aces **O**ur **Y**oung **G**irls **B**ut **V**icky **G**enerally **W**ins (This one indicates the position of Brown
 
-- **B**ad **B**ooze **R**ots **O**ur **Y**oung **G**uts **B**ut **V**odka **G**oes **W**ell (in) Silver Goblets (This one includes the tolerance bands of Gold, Silver)
+- **B**ad **B**ooze **R**ots **O**ur **Y**oung **G**uts **B**ut **V**odka **G**oes **W**ell (in) **S**ilver **G**oblets (This one includes the tolerance bands of **G**old, **S**ilver)
 
 As an added bonus, why not download and make our handy **DIY Resistor Colour Code** Wheel as a free and handy reference guide to help work out those resistor colour codes.
 
