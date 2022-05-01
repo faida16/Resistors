@@ -40,6 +40,8 @@ Typical resistor tolerances for film resistors range from 1% to 10% while carbon
 
 
 Most five band resistors are precision resistors with tolerances of either 1% or 2% while most of the four band resistors have tolerances of 5%, 10% and 20%. The colour code used to denote the tolerance rating of a resistor is given as:
+
+Brown = 1%, Red = 2%, Gold = 5%, Silver = 10 %
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
