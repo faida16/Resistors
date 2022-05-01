@@ -25,6 +25,9 @@ Again, by matching the colour of the second band with its associated number in t
 ![](Images/IMG_20220502_013216_200.jpg)
 Then we can summerise the different weighted positions of each coloured band which makes up the resistors colour code above in the following tables.
 
+# Calculation of resistor code values
+The Resistor Colour Code system is all well and good but we need to understand how to apply it in order to get the correct value of the resistor. The “left-hand” or the most significant coloured band is the band which is nearest to a connecting lead with the colour coded bands being read from left-to-right as follows:
+
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
