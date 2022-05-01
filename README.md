@@ -20,7 +20,7 @@ The resistor colour code markings are always read one band at a time starting fr
 Again, by matching the colour of the second band with its associated number in the digit column of the colour chart we get the second digit of the resistance value and so on. Then the resistor colour code is read from left to right as illustrated below
 # The standard resistor color code chart.
 ![](Images/IMG_20220501_233624_292.jpg)
-# resistor color code table
+# resistor color code tables
 ![](Images/IMG_20220502_010849_812.jpg)
 ![](Images/IMG_20220502_013216_200.jpg)
 
