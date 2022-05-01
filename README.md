@@ -57,6 +57,8 @@ The resulting mnemonic matches the first letter of each word to each colour whic
 
 - **B**ad **B**ooze **R**ots **O**ur **Y**oung **G**uts **B**ut **V**odka **G**oes **W**ell (in) Silver Goblets (This one includes the tolerance bands of Gold, Silver)
 
+As an added bonus, why not download and make our handy **DIY Resistor Colour Code** Wheel as a free and handy reference guide to help work out those resistor colour codes.
+
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
