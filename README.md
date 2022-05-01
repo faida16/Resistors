@@ -23,6 +23,7 @@ Again, by matching the colour of the second band with its associated number in t
 # resistor color code tables
 ![](Images/IMG_20220502_010849_812.jpg)
 ![](Images/IMG_20220502_013216_200.jpg)
+Then we can summerise the different weighted positions of each coloured band which makes up the resistors colour code above in the following tables.
 
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
