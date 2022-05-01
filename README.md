@@ -46,6 +46,8 @@ Brown = 1%, Red = 2%, Gold = 5%, Silver = 10 %
 If resistor has no fourth tolerance band then the default tolerance would be at 20%.
 
 It is sometimes easier to remember the resistor colour code by using short, easily remembered sentences in the form of expressions, rhymes, and phrases, called an acrostic, which have a separate word in the sentence to represent each of the Ten + Two colours.
+
+The resulting mnemonic matches the first letter of each word to each colour which makes up the resistors colour code by order of increasing magnitude and there are many different mnemonic phrases which can be used. However, these sayings are often very crude but never the less effective for remembering the resistor colours. Here are just a few of the more “cleaner” versions but many more exist:
 # Other guides
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
