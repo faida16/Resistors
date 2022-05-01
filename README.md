@@ -10,6 +10,8 @@ There are many different types of Resistor available which can be used in both e
 Obviously, it would be impractical to have available resistors of every possible value for example, 1Ω, 2Ω, 3Ω, 4Ω etc, because literally tens of hundreds of thousands, if not tens of millions of different resistors would need to exist to cover all the possible values. Instead, resistors are manufactured in what are called “preferred values” with their resistance value printed onto their body in coloured ink.
 
 The resistance value, tolerance, and wattage rating are generally printed onto the body of the resistor as numbers or letters when the resistors body is big enough to read the print, such as large power resistors. But when the resistor is small such as a 1/4 watt carbon or film type, these specifications must be shown in some other manner as the print would be too small to read.
+
+So to overcome this, small resistors use coloured painted bands to indicate both their resistive value and their tolerance with the physical size of the resistor indicating its wattage rating. These coloured painted bands produce a system of identification generally known as a Resistors Colour Code
 ![](Images/IMG_20220501_233032_709.jpg)
 ![](Images/IMG_20220501_233624_292.jpg)
 ![](Images/IMG_20220501_234249_475.jpg)
