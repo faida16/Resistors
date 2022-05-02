@@ -64,3 +64,4 @@ As an added bonus, why not download and make our handy **DIY Resistor Colour Cod
 ![](Images/IMG_20220501_234249_475.jpg)
 ![](Images/IMG_20220501_230512_130.jpg)
 ![](Images/IMG_20220501_231409_188.jpg)
+Follow the link for [resistor-guide](Resistor-Guide.md)
