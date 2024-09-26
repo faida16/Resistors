@@ -16,7 +16,7 @@ Here is how you would calculate:
 
 `R= V/I` 
 
-Resistance=Voltage (V) /devided by Current (I)
+Resistance=Voltage (V) /divided by Current (I)
 
 The Voltage is defined by the place where you need the resistance in the circuit. 
 
